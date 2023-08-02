@@ -86,3 +86,7 @@ C:\Users\WB\source\repos\JsonWT\obj\Debug\net6.0\refint\JsonWT.dll
 C:\Users\WB\source\repos\JsonWT\obj\Debug\net6.0\JsonWT.pdb
 C:\Users\WB\source\repos\JsonWT\obj\Debug\net6.0\JsonWT.genruntimeconfig.cache
 C:\Users\WB\source\repos\JsonWT\obj\Debug\net6.0\ref\JsonWT.dll
+C:\Users\WB\source\repos\JsonWT\bin\Debug\net6.0\JwtReact\package-lock.json
+C:\Users\WB\source\repos\JsonWT\bin\Debug\net6.0\JwtReact\package.json
+C:\Users\WB\source\repos\JsonWT\bin\Debug\net6.0\package-lock.json
+C:\Users\WB\source\repos\JsonWT\bin\Debug\net6.0\package.json
